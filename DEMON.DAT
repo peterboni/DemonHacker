@@ -1,0 +1,1089 @@
+-- DemonHacker DATA-FILE
+
+{
+/*þþþ Latest Additions
+}
+
+{
+    One Must Fall ù2097ù
+*.chr
+*.chr
+//Max Money:  $673,786,410
+41,FF
+42,FF
+43,FF
+//Robot:  Jaguar
+27,C7
+//Robot:  Shadow
+27,C6
+//Robot:  Thorn
+27,C5
+//Robot:  Pyros
+27,C4
+//Robot:  Electra
+27,C3
+//Robot:  Katana
+27,C2
+//Robot:  Shredder
+27,C1
+//Robot:  Flail
+27,C0
+//Robot:  Gargoyle
+27,CF
+//Robot:  Chronos
+27,CE
+//Robot:  NOVA
+27,CD
+}
+
+{
+    Ultima VIII: Pagan
+avatar.dat in <gamedat>
+avatar.dat
+//activate cheat
+42,01  cheat keys are F7 or F9(upgrade patch).  CTRL-F1 for cheat help.
+43,01  And click once on the avatar for another menu.
+}
+
+
+{
+    WarCraft: Orcs & Humans
+save[1..7].sav
+save?.sav
+//Lumber:  1,176,520,262
+1542,46
+1543,46
+1544,20
+1545,46
+1546,46
+1547,20
+1548,46
+1549,46
+//  Gold:  541,476,384
+1560,46
+1561,46
+1562,20
+1563,46
+1564,46
+1565,20
+1566,46
+1567,46
+}
+
+
+{
+/*
+}
+
+{
+/*þþþ Action
+}
+
+{
+    Syndicate
+[00..09].gam
+??.gam
+//Infinite money
+20,FF   set the money to -1
+21,FF
+22,FF
+23,FF
+}
+
+{
+    Alone in the Dark
+save[0..5].itd
+save??.itd
+//25700 oil for the lamp
+19856,64
+19857,64
+//25700 rifle ammo
+19866,64
+19867,64
+//25700 health points
+19882,64
+19883,64
+//25700 pistol ammo
+20024,64
+20025,64
+}
+
+{
+    Commander Keen 1,2,3
+saved[1..9].ck[1..3]
+saved?.ck?
+//254 keens
+50,FE
+//1950 ammo
+52,9E
+53,07
+//1684300800 score
+55,64
+56,64
+57,64
+}
+
+{
+    Commander Keen 4
+savegam[0..5].ck4
+savegam?.ck4
+//99 keens
+122,63
+//950 ammo
+104,9E
+105,07
+//6579300 score
+96,64
+97,64
+98,64
+99,00
+}
+
+{
+    Commander Keen 5
+savegam[0..5].ck5
+savegam?.ck5
+//99 keens
+124,63
+//950 ammo
+104,9E
+105,07
+//6579300 score
+96,64
+97,64
+98,64
+99,00
+}
+
+{
+    Commander Keen 6
+savegam[0..5].ck6
+savegam?.ck6
+//99 keens
+126,63
+//950 ammo
+104,9E
+105,07
+//6579300 score
+96,64
+97,64
+98,64
+99,00
+}
+
+{
+    Keen Dreams 1
+savegm[0..5].kdr
+savegm?.kdr
+//254 keens
+96,FE
+//254 ammo
+86,FE
+//65535 score
+78,FF
+79,FF
+}
+
+{
+    Prince of Persia
+prince.sav
+prince.sav
+//30 Energy
+6,1E
+//25700 Time
+0,64
+1,64
+}
+
+{
+    Prince of Persia 2: The Shadow & the Flame
+prince.sav
+prince.sav
+//30 Energy     => save game 1
+261,1E
+//25700 Time    => save game 1
+256,64
+257,64
+}
+
+{
+    CrimeWave
+game[01..10].cw
+game??.cw
+//99 lives
+14,99
+//999 machine gun ammo
+0,99
+1,09
+//999 rocket launcher ammo
+2,99
+3,09
+}
+
+{
+    DeathTrack
+*.rct
+*.rct
+//$4294967295 cash on hand
+18,FF
+19,FF
+20,FF
+21,FF
+}
+
+{
+    SpeedBall 2: Brutal Deluxe
+league.sav or cup.sav
+*.sav
+//Lots o' Money
+5,FF
+6,30
+//All players attributes to 245
+18,F5
+19,F5
+20,F5
+21,F5
+22,F5
+23,F5
+24,F5
+25,F5
+30,F5
+31,F5
+32,F5
+33,F5
+34,F5
+35,F5
+36,F5
+37,F5
+42,F5
+43,F5
+44,F5
+45,F5
+46,F5
+47,F5
+48,F5
+49,F5
+54,F5
+55,F5
+56,F5
+57,F5
+58,F5
+59,F5
+60,F5
+61,F5
+66,F5
+67,F5
+68,F5
+69,F5
+70,F5
+71,F5
+72,F5
+73,F5
+78,F5
+79,F5
+80,F5
+81,F5
+82,F5
+83,F5
+84,F5
+85,F5
+90,F5
+91,F5
+92,F5
+93,F5
+94,F5
+95,F5
+96,F5
+97,F5
+102,F5
+103,F5
+104,F5
+105,F5
+106,F5
+107,F5
+108,F5
+109,F5
+114,F5
+115,F5
+116,F5
+117,F5
+118,F5
+119,F5
+120,F5
+121,F5
+126,F5
+127,F5
+128,F5
+129,F5
+130,F5
+131,F5
+132,F5
+133,F5
+138,F5
+139,F5
+140,F5
+141,F5
+142,F5
+143,F5
+144,F5
+145,F5
+150,F5
+151,F5
+152,F5
+153,F5
+154,F5
+155,F5
+156,F5
+157,F5
+}
+
+{
+    Zeliard
+*.usr
+*.usr
+//Ultimate Character Generator
+128,72   This code is totally unreadable because I actually
+129,00   played the game, and got the items, money etc....
+130,36   The magic spells are not included because each time
+131,0A   you come to a new town you are given the magic that
+132,0A   acts as a "flag" so magic can't be given to you, but
+133,01   this cheat does give you:
+134,49
+135,06   *  A full life bar
+136,64   *  Enchantment sword  (strongest in game)
+137,64   *  Titanium shield    (undamaged)
+138,64   *  All shoes
+139,00   *  67,145 gold on hand
+140,00   *  6,579,300 gold in bank
+141,1D   *  2 magica stone
+142,61   *  2 juu-en fruit
+143,53   *  Chikara powder
+144,20
+145,03
+146,06
+147,06
+148,58
+149,02
+150,58
+151,02
+160,00
+161,04
+162,02
+163,03
+164,05
+165,01
+166,02
+167,02
+168,04
+169,05
+170,05
+171,56
+172,56
+173,56
+174,62
+175,2F
+176,2A
+177,26
+178,20
+179,03
+180,56
+181,56
+182,56
+183,62
+194,03
+}
+
+{
+/*
+}
+
+{
+/*þþþ RPG
+}
+
+{
+    Betrayal at Krondor
+save??.gam
+save??.gam
+//168430090 Sovereigns
+102,64
+103,64
+104,64
+105,64
+//Locklear (Ultimate Character Generator)
+227,FF   hp
+228,FF
+229,FF
+232,FF   stamina
+233,FF
+234,FF
+237,7F   speed
+238,7F
+239,7F
+242,7F   strength
+243,7F
+244,7F
+247,64   defence
+248,64
+249,64
+252,64   accy crossbow
+253,64
+254,64
+257,64   accy melee
+258,64
+259,64
+262,00   accy casting         == set to 00 because non-magic users
+263,00                           can not use a crossbow or sword!
+264,00
+267,64   assesment
+268,64
+269,64
+272,64   armour craft
+273,64
+274,64
+277,64   weapon craft
+278,64
+279,64
+282,64   barding
+283,64
+284,64
+287,64   haggling
+288,64
+289,64
+292,64   lockpick
+293,64
+294,64
+297,64   scouting
+298,64
+299,64
+302,64   stealth
+303,64
+304,64
+//Gorath (Ultimate Character Generator)
+322,FF   hp
+323,FF
+324,FF
+327,FF   stamina
+328,FF
+329,FF
+332,7F   speed
+333,7F
+334,7F
+337,7F   strength
+338,7F
+339,7F
+342,64   defence
+343,64
+344,64
+347,64   accy crossbow
+348,64
+349,64
+352,64   accy melee
+353,64
+354,64
+357,00   accy casting         == See Locklear explanation
+358,00
+359,00
+362,64   assesment
+363,64
+364,64
+367,64   armour craft
+368,64
+369,64
+372,64   weapon craft
+373,64
+374,64
+377,64   barding
+378,64
+379,64
+382,64   haggling
+383,64
+384,64
+387,64   lockpick
+388,64
+389,64
+392,64   scouting
+393,64
+394,64
+397,64   stealth
+398,64
+399,64
+//Owyn (Ultimate Character Generator)
+417,FF   hp
+418,FF
+419,FF
+422,FF   stamina
+423,FF
+424,FF
+427,7F   speed
+428,7F
+429,7F
+432,7F   strength
+433,7F
+434,7F
+437,64   defence
+438,64
+439,64
+442,64   accy crossbow
+443,64
+444,64
+447,64   accy melee
+448,64
+449,64
+452,64   accy casting
+453,64
+454,64
+457,64   assesment
+458,64
+459,64
+462,64   armour craft
+463,64
+464,64
+467,64   weapon craft
+468,64
+469,64
+472,64   barding
+473,64
+474,64
+477,64   haggling
+478,64
+479,64
+482,64   lockpick
+483,64
+484,64
+487,64   scouting
+488,64
+489,64
+492,64   stealth
+493,64
+494,64
+//James (Ultimate Character Generator)
+607,FF   hp
+608,FF
+609,FF
+612,FF   stamina
+613,FF
+614,FF
+617,7F   speed
+618,7F
+619,7F
+622,7F   strength
+623,7F
+624,7F
+627,64   defence
+628,64
+629,64
+632,64   accy crossbow
+633,64
+634,64
+637,64   accy melee
+638,64
+639,64
+642,00   accy casting         == See Locklear explanation
+643,00
+644,00
+647,64   assesment
+648,64
+649,64
+652,64   armour craft
+653,64
+654,64
+657,64   weapon craft
+658,64
+659,64
+662,64   barding
+663,64
+664,64
+667,64   haggling
+668,64
+669,64
+672,64   lockpick
+673,64
+674,64
+677,64   scouting
+678,64
+679,64
+682,64   stealth
+683,64
+684,64
+//Patrus (Ultimate Character Generator)
+702,FF   hp
+703,FF
+704,FF
+707,FF   stamina
+708,FF
+709,FF
+712,7F   speed
+713,7F
+714,7F
+717,7F   strength
+718,7F
+719,7F
+722,64   defence
+723,64
+724,64
+727,64   accy crossbow
+728,64
+729,64
+732,64   accy melee
+733,64
+734,64
+737,64   accy casting
+738,64
+739,64
+742,64   assesment
+743,64
+744,64
+747,64   armour craft
+748,64
+749,64
+752,64   weapon craft
+753,64
+754,64
+757,64   barding
+758,64
+759,64
+762,64   haggling
+763,64
+764,64
+767,64   lockpick
+768,64
+769,64
+772,64   scouting
+773,64
+774,64
+777,64   stealth
+778,64
+779,64
+}
+
+{
+    Ultima Underworld: The Stygian Abyss
+player.dat in DIR save[1..4]
+player.dat
+//Ultimate Character Generator
+31,FF   strength
+33,FF   intelligence
+35,FF   defence
+37,FF   sword
+39,FF   mace
+41,FF   mana
+43,FF   casting
+45,FF   search
+47,FF   sneak
+49,FF   charm
+51,FF   acrobat
+53,FF   swimming
+62,3F   level
+79,FF   experience
+80,FF
+81,FF
+82,FF
+32,FF   dexterity
+34,FF   attacking
+36,FF   unarmed
+38,FF   axe
+40,FF   missile
+42,FF   lore
+44,FF   traps
+46,FF   track
+48,FF   repair
+50,FF   pick-lock
+52,FF   appraise
+56,63   mana
+57,64
+221,73  vitality
+55,EC
+}
+
+{
+    Might and Magic IV Clouds of Xeen
+xeen??.sav
+xeen??.sav
+//Ultimate (Default Party) Generator
+2461,FE   caracter 1  -  mgt          This code will only work on the
+2463,FE   int                         default party, this is the one
+2465,FE   per                         you get at the start of the game,
+2467,FE   end                         so don't go changing characters
+2469,FE   spd                         or creating new ones because
+2471,FE   acy                         the offsets in the file then
+2473,FE   lck                         change and this code will screw
+2476,FE   lvl                         up your party!
+2752,FE   resis 1
+2753,FE
+2754,FE   resis 2
+2755,FE
+2756,FE   resis 3
+2757,FE
+2758,FE   resis 4
+2759,FE
+2760,FE   resis 5
+2761,FE
+2762,FE   resis 6
+2763,FE
+2815,FE   character 2 -  mgt
+2817,FE   int
+2819,FE   per
+2821,FE   end
+2823,FE   spd
+2825,FE   acy
+2827,FE   lck
+2830,FE   lvl
+3106,FE   resis 1
+3107,FE
+3108,FE   resis 2
+3109,FE
+3110,FE   resis 3
+3111,FE
+3112,FE   resis 4
+3113,FE
+3114,FE   resis 5
+3115,FE
+3116,FE   resis 6
+3117,FE
+4585,FE   character 3 -  Mgt
+4587,FE   int
+4589,FE   per
+4591,FE   end
+4593,FE   spd
+4595,FE   acy
+4597,FE   lck
+4600,FE   lvl
+4876,FE   resis 1
+4877,FE
+4878,FE   resis 2
+4879,FE
+4880,FE   resis 3
+4881,FE
+4882,FE   resis 4
+4883,FE
+4884,FE   resis 5
+4885,FE
+4886,FE   resis 6
+4887,FE
+4585,FE   character 4 -  mgt
+6355,FE   int
+6357,FE   per
+6359,FE   end
+6361,FE   spd
+6363,FE   acy
+6365,FE   lck
+6367,FE   lvl
+6346,FE   resis 1
+6647,FE
+6648,FE   resis 2
+6649,FE
+6650,FE   resis 3
+6651,FE
+6652,FE   resis 4
+6653,FE
+6654,FE   resis 5
+6655,FE
+6656,FE   resis 6
+6657,FE
+7417,FE   character 5 -  mgt
+7419,FE   int
+7421,FE   per
+7423,FE   end
+7425,FE   spd
+7427,FE   acy
+7429,FE   lck
+7432,FE   lvl
+7708,FE   resis 1
+7709,FE
+7710,FE   resis 2
+7711,FE
+7712,FE   resis 3
+7713,FE
+7714,FE   resis 4
+7715,FE
+7716,FE   resis 5
+7717,FE
+7718,FE   resis 6
+7719,FE
+8833,FE   character 6 -  mgt
+8835,FE   int
+8837,FE   per
+8839,FE   end
+8841,FE   spd
+8843,FE   acy
+8845,FE   lck
+8848,FE   lvl
+9124,FE   resis 1
+9125,FE
+9126,FE   resis 2
+9127,FE
+9128,FE   resis 3
+9129,FE
+9130,FE   resis 4
+9131,FE
+9132,FE   resis 5
+9133,FE
+9134,FE   resis 6
+9135,FE
+}
+
+{
+    Eye of the Beholder 3
+items_[01..12].bin in <savegame>
+items_??.bin
+//Character 1 (Ultimate Character Generator)
+866,12   hp               **** Before running this cheat on your
+867,12                    saved game click on Show Numbers on the
+868,12   hp of            camp menu instead of Show Bar Graphs
+869,12                    becuase this sets the hp to a large number
+886,15   str              that the bar graph's cannot handle so
+887,64   str /00          they wreck the display and put crap
+888,15   int              everywhere.
+889,15   wis
+890,15   dex
+891,15   con
+892,15   cha
+893,FF   ac
+//Character 2 (Ultimate Character Generator)
+1493,12   hp
+1494,12
+1495,12   hp of
+1496,12
+1513,15   str
+1514,64   str /00
+1515,15   int
+1516,15   wis
+1517,15   dex
+1518,15   con
+1519,15   cha
+1520,FF   ac
+//Character 3 (Ultimate Character Generator)
+2120,12   hp
+2121,12
+2122,12   hp of
+2123,12
+2140,15   str
+2141,64   str /00
+2142,15   int
+2143,15   wis
+2144,15   dex
+2145,15   con
+2146,15   cha
+2147,FF   ac
+//Character 4 (Ultimate Character Generator)
+2747,12   hp
+2748,12
+2749,12   hp of
+2750,12
+2767,15   str
+2768,64   str /00
+2769,15   int
+2770,15   wis
+2771,15   dex
+2772,15   con
+2773,15   cha
+2774,FF   ac
+}
+
+{
+    Pools of Darkness
+chrdat[a..j][1..8].sav
+chrdat??.sav
+//Ultimate Character Generator
+16,63   str                              As for Gateway to the
+17,63                                    Savage Frontier, you
+18,63   int                              must execute this code
+19,63                                    plus the code below
+20,63   wis                              depending on your char-
+21,63                                    acter's class!
+22,63   dex
+23,63
+24,63   con
+25,63
+26,63   cha
+27,63
+178,FE   max hp
+370,C0   experience - 3,000,000
+371,C6
+372,2D
+373,00
+//Cleric (boost level)
+337,63
+//Fighter (boost level)
+339,63
+//Magic-User (boost level)
+342,63
+//Paladin (boost level)
+340,63
+//Ranger (boost level)
+341,63
+//Thief (boost level)
+343,63
+}
+
+{
+    Gateway to the Savage Frontier
+chrdat[a..j][1..8].sav
+chrdat??.sav
+//Ultimate Character Generator
+12,63   str                             To modify a character you
+17,63                                   must execute this code on
+18,63   int                             the save game file plus the
+19,63                                   relevant code below depend-
+20,63   wis                             ing on your character's
+21,63                                   class!
+22,63   dex
+23,63
+24,63   con
+25,63
+26,63   cha
+27,63
+120,FE   max hp
+295,C0   experience - 3,000,000
+296,C6
+297,2D
+298,00
+//Cleric (boost level)
+265,63
+//Fighter (boost level)
+267,63
+//Magic-User (boost level)
+270,63
+//Paladin (boost level)
+268,63
+//Ranger (boost level)
+269,63
+//Thief (boost level)
+271,63
+}
+
+{
+    Countdown to Doomsday: Buck Rogers
+chrdat[a..j][1..8].sav
+chrdat??.sav
+//Ultimate Character Generator
+16,63   str           This code works for all Races/Classes, gives:
+17,63   dex
+18,63   con           * All Abilities to 99
+19,63   int           * Boosts all Careet & General Skills
+20,63   wis           * -ve Thaco & AC
+21,63   cha           * Boosts movement
+22,63   tch           * Level 99
+23,63   str2
+24,63   dex2
+25,63   con2
+26,63   int2
+27,63   wis2
+28,63   cha2
+29,63   tch2
+35,FE   general skills, career skills, -ve thaco & ac
+54,64   movement
+69,FE   hp:  y of X - (changes X to 254)
+41,63   level :- 99
+}
+
+{
+    Dungeons of Moria
+*.*
+*.*
+//Ultimate Character Generator
+416,FF   gold                      IMPORTANT:
+417,FF                             ----------
+420,12   age
+430,FF   searching                 For this game the save game files
+462,FF   social Class              are read-only, therefore you must
+412,FF   experience                un-read-only the save game file,
+413,FF                             run the cheat on the file, then
+414,FF                             reprotect it.
+892,DA   attributes
+893,DA                             To UN-READ-ONLY file:
+894,DA
+895,DA                             ATTRIB -R FILENAME.EXT
+896,DA
+897,DA                             To READ-ONLY file:
+898,DA
+899,DA                             ATTRIB +R FILENAME.EXT
+900,DA
+901,DA
+902,DA
+903,DA
+440,FF   hit points
+438,FF   max mana
+450,7F   "to hit" value
+452,7F   "to damage" value
+454,7F   total ac
+456,7F   "to ac" value
+424,00   weight
+}
+
+
+
+{
+/*
+}
+
+{
+/*þþþ Strategy
+}
+
+
+{
+    SimCity
+*.cty
+*.cty
+//$2,147,483,647 city funds
+3108,7F
+3109,FF
+3110,FF
+3111,FF
+}
+
+{
+    Duneú2
+_save???.dat
+_save???.dat
+//Atreides/Harkonnen (25700 Credits)
+384,64   save game description MUST be 1 char!
+385,64   money offset formula:  number of letters in desc+383
+//Ordos (25700 Credits)
+451,64   save game description MUST be 1 char!
+452,64   money offset formula:  number of letters in desc+449
+}
+
+
+{
+    Harley Davidson: The Road to Sturgis
+gamesave.*
+gamesave.*
+//Ultimate Character Generator
+16,04   difficulty level (1-4)
+29,09   rank (0-9)
+30,00   money (00 10 for $4096)
+31,10
+34,01   days left (01 00 for 10 days)
+35,00
+18,09   riding (0-9)
+20,09   mechanic (0-9)
+22,09   brawling (0-9)
+24,09   wealth (0-9)
+26,09   charisma (0-9)
+}
+
+
+{
+    MechWarrior
+*.gam
+*.gam
+//$1,667,457,891
+73,63
+74,63
+75,63
+76,63
+}
+
+{
+    BattleTech: Crescent Hawk's Inception
+game[1..6].
+game?.
+//1684300900 C-Bills
+3421,64
+3422,64
+3423,64
+3424,64
+}*

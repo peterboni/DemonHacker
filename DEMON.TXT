@@ -1,0 +1,163 @@
+
+
+
+              ÂÄ¿ ÂÄ¿ Â¿ÚÂ ÚÄ¿ Â¿Ú     Â Â  Ú¿  ÚÄ¿ Â Ú  ÂÄ¿ ÂÄÄ¿
+              ³ ³ ³Ä  ³ÀÙ³ ³ ³ ³³³     ³Ä´ Ú´Ã¿ ³   ³ÄÁ¿ ³Ä  ³ÄÂÙ
+              ÁÄÙ ÁÄÙ À  Ù ÀÄÙ ÙÀÙ     Á Á À  Ù ÀÄÙ À  À ÁÄÙ À À  (TM)
+              version 1.0
+
+                         Copyright (C) 1995 Peter Boni
+                              All rights reserved
+
+
+                                    FREEWARE
+
+
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ Requirements                                                        ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+    IBM XT/AT/386/486/Pentium and 100% compatible
+    VGA Monitor
+    640K RAM
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ DemonHacker?                                                        ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+    DemonHacker is a GENERIC hacker, its hacks are stored in the script
+    file DEMON.DAT.  New hacks can be added or existing ones altered.
+
+    DemonHacker at present only contains hacks for save game files.
+    However ANY hacks can be added as it is generic.  PLEASE send in
+    your hacks so EVERYONE can use them.
+
+    DemonHacker is child's play to use, just load it up and hack away...
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ Conditions of use                                                   ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+    DemonHacker is intended solely for the use of legitimate owners of
+    the programs that it hacks the files of.
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ The script file DEMON.DAT                                           ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+   The first line in the file is the header, if this differs from the
+   following the program will not read the file.
+
+   -- DemonHacker DATA-FILE
+
+   An entry is made between these symbols:
+   {
+   }
+
+   Types of entry's are:
+     1.  Label
+     2.  Hack
+
+
+   *  Labels have the following format:
+
+   {
+   /*Text for a label goes here...
+   }
+
+   As can be seen the label is enclosed in an entry {} and the label is
+   identified with the two symbols /* followed by the text that makes
+   the label.  Labels can not be selected from within DemonHacker, and
+   they are displayed in yellow.
+
+   *  Hacks have the following format:
+
+   {
+       Title of Hack
+   valid files to apply hack to (can be more descriptive eg. save[1..7].sav)
+   valid files to apply hack to (must be a DOS filespec  eg. save?.sav     )
+   //Hack ACTION title
+   hack offset,change offset to hex value
+   }
+
+   NOTE:  hack offset range is  0..2147483647
+          hex value range is    00..FF
+
+   eg.
+   {
+       Ultima VIII: Pagan
+   avatar.dat in <gamedat>
+   avatar.dat
+   //activate cheat
+   42,01
+   43,01
+   }
+
+   The above example is a hack for Ultima VIII: Pagan.  The file that is
+   valid to hack is avatar.dat which is in the directory gamedat:
+   'avatar.dat in <gamedat>'.  The file selector uses the filespec
+   'avatar.dat'.  There is only one action which is 'activate cheat'
+   which if selected changes the offsets 42 and 43 in the file to 01(hex).
+
+   It is quite easy to understand, just follow the hacks already in
+   DEMON.DAT for examples.
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ New cheat? Revision? Ideas?                                         ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+    If you have a new cheat, an improvement on the current ones, new
+    ideas for DemonHacker, or have discovered any bugs then send them
+    in and you could get your name in lights on the next version of
+    DemonHacker...
+
+
+    snail-mail:
+
+    Peter Boni
+    P.O. Box 450 Kalamunda
+    Western Australia 6076
+
+    e-mail:
+
+    st95472e@pilot.stu.cowan.edu.au
+    pboni@envirolink.org
+  
+  
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ Licence                                                             ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+    DemonHacker is classed as FREEWARE, this means that:
+
+    You may NOT modify DemonHacker in any way EXCEPT programming the
+    script file DEMON.DAT.  You may NOT reverse engineer the program by
+    decompiling, disassembling or decrypting it.
+
+    DemonHacker is provided for an unlimited period of time as long as
+    the above conditions are met.  You are hereby granted the right to
+    use DemonHacker for as long as you see fit.
+
+    You are also granted the right, and encouraged, to distribute
+    DemonHacker to others who may find it of interest, and to upload it
+    to computer bulletin board services (BBS's), or anywhere else.
+    You MUST transmit the same UNMODIFIED files DEMON.EXE, DEMON.DAT,
+    DEMON.DOC & FILE_ID.DIZ.
+
+
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ Disclaimer                                                          ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+    Every effort has been made to test DemonHacker and no problems
+    should arise but blah blah blah...
+
+    No warranty of any kind, whether express or implied, is attached to
+    DemonHacker, including any claim of merchantability or suitability
+    of DemonHacker for any specific purpose.  No warranty shall extend
+    to any right to claim any damages from Peter Boni the author
+    including but not limited to loss of profit, data, or use of the
+    software, or any consequential or incidental damages.  You use
+    DemonHacker entirely at your own risk.
+
